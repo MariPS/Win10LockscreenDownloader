@@ -16,4 +16,4 @@ Simply clone or download the project.
 Run the `main.py` script.
 
 ## Project Status
-At the moment, the script simply selects all the files with size `>=400Kb` and stores them in the selected folder with extension `.jpg`. In the future, it is contemplated the addition of a feature to select a single image too. Also, will be added the possibility to rename the images with the names of the geographical places where they were taken.
+At the moment, the script simply selects all the files with size `>=400Kb` and stores them with extension `.jpg` in the selected folder. In the future, it is contemplated the addition of a feature to select a single image too. Also, will be added the possibility to rename the images with the names of the geographical places where they were taken.
